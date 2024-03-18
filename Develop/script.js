@@ -44,13 +44,15 @@ return employeesArray;
 const displayAverageSalary = function(employeesArray) {
   // TODO: Calculate and display the average salary
 
-  let sum = 0;
-  const numberEmployeesArray = employeesArray[2]
+  const numericArray = employeesArray.map(Number).filter(n => !isNaN(n));
 
-  for (let i = 0; i < numberEmployeesArray.length; i++) {
-     sum += (numberEmployeesArray[i]);
-   }
-  const average = (sum / employeesArray.length);
+    let sum = 0; 
+     
+    for (let i = 0; i < numericArray.length; i++)  
+    sum += numericArray[i]; 
+     
+    const average = sum / numericArray.length; 
+    
   console.log(`The average employee salary between our 3 employees(s) is ${average}`);
 }
 
