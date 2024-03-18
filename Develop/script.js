@@ -44,21 +44,24 @@ return employeesArray;
 const displayAverageSalary = function(employeesArray) {
   // TODO: Calculate and display the average salary
 
-  const numericArray = employeesArray.map(Number).filter(n => !isNaN(n));
-
     let sum = 0; 
      
-    for (let i = 0; i < numericArray.length; i++)  
-    sum += numericArray[i]; 
+    for (let i = 0; i < employeesArray.length; i++)  
+     sum += employeesArray[i].salary; 
      
-    const average = sum / numericArray.length; 
+     const average = sum / employeesArray.length; 
     
-  console.log(`The average employee salary between our 3 employees(s) is ${average}`);
+   console.log(`The average employee salary between our 3 employees(s) is ${average}`);
+   return average;
 }
 
 // Select a random employee
 const getRandomEmployee = function(employeesArray) {
   // TODO: Select and display a random employee
+
+const employeesNamesArray = employeesArray.pop();
+console.log("this is the list of employees names");
+console.log(employeesNamesArray);
 }
 
 /*
