@@ -62,7 +62,7 @@ reccomended to install Visual Studio code as well.
 <!-- USAGE EXAMPLES -->
 ## Link to Deployed Application
 
-_Here is a link to my [Deployed Payroll Web Page](https://stvrmrz.github.io/Challenge-02-Portfolio/)_
+_Here is a link to my [Deployed Payroll Web Page](https://stvrmrz.github.io/Challenge-03-Payroll/)_
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -89,7 +89,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Steve Ramirez - [@stvrmrz](https://twitter.com/stvrmrz) - stevearamirez@gmail.com
 
-Project Link: [https://github.com/stvrmrz/Challenge-02-Portfolio](https://github.com/stvrmrz/Challenge-02-Portfolio)
+Project Link: [https://github.com/stvrmrz/Challenge-03-Payroll](https://github.com/stvrmrz/Challenge-03-Payroll)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -97,10 +97,9 @@ Project Link: [https://github.com/stvrmrz/Challenge-02-Portfolio](https://github
 Here are some of the resources that I used that I want to give credit to:
 
 * [othneildrew Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-* [w3schools css-align](https://www.w3schools.com/css/css_align.asp)
-* [studytonight divider ](https://www.studytonight.com/css-howtos/how-to-create-divider-with-css)
-* [w3school divider](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_dividers)
-* [Heading Tags insightonline](https://www.insightonline.co.nz/blog/heading-tags-good-for-seo-but-what-if-they-are-the-wrong-size#:~:text=Traditionally%20they%20are%20like%20the,This%20is%20the%20default%20styling.)
-* [w3 centering things](https://www.w3.org/Style/Examples/007/center.en.html#text)
-* [css tricks flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-examples)
-* [cards getbootstrap)](https://getbootstrap.com/docs/4.0/components/card/#:~:text=A%20card%20is%20a%20flexible,colors%2C%20and%20powerful%20display%20options.)
+* [MDN ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN)
+* [freeCodeCamp](https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-number-in-javascript/)
+* [Medium](https://medium.com/codex/how-to-get-the-last-element-in-an-array-in-javascript-c106f2f4b830#:~:text=To%20get%20the%20last%20element%20of%20an%20array%20in%20JavaScript,the%20element%20at%20that%20index.)
+* [w3schools](https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_pop)
+* [greenroots](https://blog.greenroots.info/5-ways-to-merge-arrays-in-javascript-and-their-differences)
+* [GeekforGeeks)](https://www.geeksforgeeks.org/how-to-get-first-n-number-of-elements-from-an-array-in-javascript/)
